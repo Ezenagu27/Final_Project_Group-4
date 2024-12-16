@@ -1,3 +1,6 @@
+The Goal of this project was to take a real data set(Instacart) and to use machine learning (unsupervised) to do customer segmentation.  In addition, to be able to make meaningful data analysis on the customer segmentation that would benefit the company. 
+
+
 Data for this project came from
 
 https://www.kaggle.com/competitions/instacart-market-basket-analysis/data
