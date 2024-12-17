@@ -1,12 +1,13 @@
-**Warning running the code can take signficant amount of memory to run because of the large dataset.
+**Warning running the code can take large amount of memory to run because the dataset is large.**
 
-The Goal of this project was to take a real data set(Instacart) and to use machine learning (unsupervised) to do customer segmentation.  
+The Goal of this project was to take a real data set and to use machine learning (unsupervised) to do customer segmentation.  
 In addition, to be able to make meaningful data analysis on the customer segmentation that would benefit the company. 
 
-Data for this project came from. This Dataset was a Competition to predict which item would be added to the cart next, but we repurposed the data into customer segmentation. 
+Data for this project came from Instacart. This Dataset was a Competition to predict which item would be added to the cart next, but we repurposed the data into customer segmentation. 
 
-Any new user will have to agree to the terms and conditions of the contest, before they are able to download the files.   The website below has a download all button on the bottom right of the screen.
-https://www.kaggle.com/competitions/instacart-market-basket-analysis/data
+3 of the csv files were added to the github.   2 of them were not because of the size of the files.  order_prducts_prior.csv is over 500mb and the orders.csv is over 100mb and will need to be downloaded at
+https://www.kaggle.com/competitions/instacart-market-basket-analysis/data (there is a download all button at the bottom right)
+You will have to agree to the terms and conditions of the contest, before they are able to download the files.
 
 The majority of the code came from looking at activites from Week 19.   
 
