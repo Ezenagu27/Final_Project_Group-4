@@ -1,4 +1,4 @@
-The Goal of this project was to take a real data set(Instacart) and to use machine learning (unsupervised) to do customer segmentation.  In addition, to be able to make meaningful data analysis on the customer segmentation that would benefit the company. 
+**Warning this Dataset will require a lot of resources, and may use a significant amount of your computer's storage. The Goal of this project was to take a real data set(Instacart) and to use machine learning (unsupervised) to do customer segmentation.  In addition, to be able to make meaningful data analysis on the customer segmentation that would benefit the company. 
 
 
 Data for this project came from. This Dataset was a Competition to see Which products will an Instacart consumer purchase again? Any new user will have to agree to the terms and conditions of this project, before they are able to download the files. 
